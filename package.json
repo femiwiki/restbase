@@ -42,7 +42,7 @@
     "hyperswitch": "^0.12.7",
     "jsonwebtoken": "^8.5.1",
     "mediawiki-title": "^0.7.2",
-    "restbase-mod-table-cassandra": "^1.2.1",
+    "restbase-mod-table-mysql": "^0.1.0",
     "semver": "latest",
     "service-runner": "^2.7.3",
     "uuid": "^3.3.3"
